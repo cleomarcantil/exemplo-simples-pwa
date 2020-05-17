@@ -1,0 +1,14 @@
+{
+  "name": "exemplo-simples-pwa",
+  "version": "1.0.0",
+  "description": "Exemplo simples de aplicação PWA",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "author": "Cleomar Cantil",
+  "license": "ISC",
+  "devDependencies": {
+    
+  }
+}

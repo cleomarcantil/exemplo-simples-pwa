@@ -1,0 +1,20 @@
+{
+    "name": "Exemplo Simples PWA",
+    "short_name": "ExemploSimplesPWA",
+    "start_url": "/index.html",
+    "icons": [
+        {
+            "src": "/img/icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#dc3545",
+    "display": "standalone",
+    "lang": "pt-BR"
+}
